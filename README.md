@@ -1,2 +1,2 @@
 # sem2labs
-labs
+labs 1
